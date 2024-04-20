@@ -1,4 +1,4 @@
-export const characters = {
+export const character = {
   id: 1,
   name: "Rick Sanchez",
   status: "Dead",
